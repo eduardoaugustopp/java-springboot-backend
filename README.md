@@ -5,6 +5,48 @@
 
 https://github.com/user-attachments/assets/ffa94f46-256b-4529-bbce-4fb479bb009f
 
+
+````mermaid
+erDiagram
+    PECA {
+        String id
+        String name
+        String description
+        String imageUrl
+        String promotionalPrice
+        String normalPrice
+        String installment
+    }
+    
+    MARCA {
+        String id
+        String nome
+    }
+    
+    CATEGORIA {
+        String id
+        String nome
+    }
+
+    PECA_MARCA {
+        String id
+        String peca_id
+        String marca_id
+    }
+
+    PECA_CATEGORIA {
+        String id
+        String peca_id
+        String categoria_id
+    }
+
+    PECA ||--o{ PECA_MARCA : possui
+    MARCA ||--o{ PECA_MARCA : pertence_a
+
+    PECA ||--o{ PECA_CATEGORIA : possui
+    CATEGORIA ||--o{ PECA_CATEGORIA : pertence_a
+````
+
 ``POST`` - http://localhost:8080/pecas
 ````json
 {
