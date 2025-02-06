@@ -5,6 +5,7 @@
 
 https://github.com/user-attachments/assets/ffa94f46-256b-4529-bbce-4fb479bb009f
 
+## SpringDoc: http://localhost:8080/swagger-ui/index.html#/
 
 ````mermaid
 erDiagram
