@@ -1,4 +1,7 @@
-<h1 align="center">Java e SpringBoot</h1>
+<h1 align="center">Java, SpringBoot e MySQL</h1>
+
+[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)]()
+[![MySQL](https://img.shields.io/website?label=MySQL&style=for-the-badge&url=https://java-springboot-backend-production.up.railway.app/pecas)](https://java-springboot-backend-production.up.railway.app/pecas)
 
 https://github.com/user-attachments/assets/ffa94f46-256b-4529-bbce-4fb479bb009f
 
