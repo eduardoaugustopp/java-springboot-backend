@@ -210,12 +210,27 @@ https://github.com/user-attachments/assets/ffa94f46-256b-4529-bbce-4fb479bb009f
     ]
 }
 ````
+``POST`` - https://java-springboot-backend-production.up.railway.app/pecas
 ---
+
+> <img alt="" src="./img/railway-mysql.png" width="100%"> </br>
+
+> <img alt="" src="./img/railway-variaveis.png" width="100%"> </br>
+
+> <img alt="" src="./img/railway-active.png" width="100%"> </br>
+
+> <img alt="" src="./img/railway-postman.png" width="100%"> </br>
+
+> <img alt="" src="./img/railway-domain.png" width="100%"> </br>
+
+> <img alt="" src="./img/railway-api.png" width="100%"> </br>
+
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>     
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original-wordmark.svg"width="40" height="40"/>      
 </div>
